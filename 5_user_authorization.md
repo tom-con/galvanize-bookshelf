@@ -61,7 +61,7 @@ Additionally, ensure the middleware handles the following HTTP requests and send
 You can run the following test suite to verify the middleware works as expected.
 
 ```shell
-npm test test/part5.routes.test.js
+  npm test test/part5.routes.test.js
 ```
 
 ## Bonus
